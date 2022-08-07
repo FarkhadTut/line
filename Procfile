@@ -1,1 +1,1 @@
-worker: python run server.py
+worker: python server.py
